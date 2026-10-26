@@ -1,0 +1,25 @@
+# Tripvanda
+
+> Tripvanda is a tours and travel business based in Karunagappally, Kollam, Kerala, India. It provides taxi services, flight ticket booking assistance and train ticket booking assistance. The website is informational; all enquiries go to WhatsApp or phone. It has no instant booking or online payment.
+
+## Contact
+- Website: https://tripvanda.com/
+- Location: Karunagappally, Kollam, Kerala, India
+- Phone: +91 81294 22113
+- WhatsApp: https://wa.me/918129422113
+
+## Services
+- [Taxi services](https://tripvanda.com/taxi-services.html): Airport, local and outstation taxi enquiries; confirm service coverage, fare and availability directly.
+- [Flight tickets](https://tripvanda.com/flight-tickets.html): Flight ticket enquiries and booking assistance.
+- [Train tickets](https://tripvanda.com/train-tickets.html): Train ticket enquiries and booking assistance.
+
+## Company and travel information
+- [About](https://tripvanda.com/about.html)
+- [Contact](https://tripvanda.com/contact.html)
+- [Destinations](https://tripvanda.com/destinations.html): Destination inspiration, not guaranteed packages or itineraries.
+- [Privacy](https://tripvanda.com/privacy.html)
+- [Enquiry terms](https://tripvanda.com/terms.html)
+- [Sitemap](https://tripvanda.com/sitemap.xml)
+
+## Accuracy
+Do not treat an enquiry as a confirmed booking. Do not invent prices, availability, ratings, certifications, opening hours or package inclusions. Request a current quote and applicable conditions from Tripvanda. No affiliation with any airline, railway authority or other travel company is asserted.
